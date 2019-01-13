@@ -11,3 +11,5 @@ getRandomElement([1,2,3]);
 getRandomNumber(1,10);
 //=> 4
 ```
+
+#aaaannnd thats how the cookie crumbles
