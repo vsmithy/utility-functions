@@ -15,5 +15,11 @@ getRandomNumber(1,10);
 ```
 getURLSlug("stuffs")
 //=> stuffs output
+```
+
+```
+getInitials("Jon Snow");
+//=> "JS"
+```
 
 #aaaannnd thats how the cookie crumbles
